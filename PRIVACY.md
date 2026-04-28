@@ -1,4 +1,5 @@
 MindPush — Privacy Policy
+
 Effective Date: April 2026
 
 Developer: Luca Pizza
