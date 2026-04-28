@@ -188,7 +188,7 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 
 11. Contact
 
-For privacy-related inquiries, data requests, or legal notices, please contact the developer via the official support repository: [INSERT YOUR GITHUB REPO URL HERE] or via email at mindpushdiscipline@gmail.com.
+For privacy-related inquiries, data requests, or legal notices, please contact the developer via the official support repository: https://github.com/luca0296/MindPush-Support or via email at mindpushdiscipline@gmail.com.
 
 12. Governing Law
 
