@@ -20,31 +20,22 @@ PHYSICAL MODULE — EARN WITH YOUR BODY
 
 The front camera tracks your movement in real time using on-device AI pose detection. No data ever leaves your phone.
 
-Push-ups and squats both supported.
-
-Skeleton overlay for instant form feedback.
-
-Full range-of-motion validation: partial reps are rejected automatically.
-
-Hard Mode (Elite): enforces a 3-second isometric hold at the bottom of every rep, yielding 2x screen time.
-
-Voice rep counting keeps you in position.
-
-Leaving the app mid-session loses all uncounted reps.
+• Push-ups and squats both supported.
+• Skeleton overlay for instant form feedback.
+• Full range-of-motion validation: partial reps are rejected automatically.
+• Hard Mode (Elite): enforces a 3-second isometric hold at the bottom of every rep, yielding 2x screen time.
+• Voice rep counting keeps you in position.
+• Leaving the app mid-session loses all uncounted reps.
 
 MENTAL MODULE — EARN WITH YOUR MIND
 
 The Deep Work Protocol converts focused work into screen time at a ratio you define.
 
-Standard Protocol: auto-pauses if you leave the app.
-
-Face-Down Enforcement (Elite): leaving the app or lifting the phone beyond a 5-second grace window immediately fails the session.
-
-Custom Pomodoro-style intervals with configurable blocks (Elite).
-
-Up to 10 saved routines (Elite).
-
-1.5x time bonus for completing face-down sessions.
+• Standard Protocol: auto-pauses if you leave the app.
+• Face-Down Enforcement (Elite): leaving the app or lifting the phone beyond a 5-second grace window immediately fails the session.
+• Custom Pomodoro-style intervals with configurable blocks (Elite).
+• Up to 10 saved routines (Elite).
+• 1.5x time bonus for completing face-down sessions.
 
 THE INTEGRITY ENGINE
 
@@ -64,54 +55,39 @@ OVERTIME — THE DEBT SYSTEM
 
 When your balance hits zero, you have 30 seconds of free grace. Walk away clean. If you don't:
 
-Phase 1 (30 to 90s): 1:1 debt. Every second on the app costs a second.
-
-Phase 2 (90 to 210s): 2x debt. The meter is doubling.
-
-Phase 3 (210 to 330s): 5x debt. Auto-block approaching.
-
-Lockdown (330s+): Apps blocked automatically. Debt applied.
+• Phase 1 (30 to 90s): 1:1 debt. Every second on the app costs a second.
+• Phase 2 (90 to 210s): 2x debt. The meter is doubling.
+• Phase 3 (210 to 330s): 5x debt. Auto-block approaching.
+• Lockdown (330s+): Apps blocked automatically. Debt applied.
 
 Escalating push notifications fire throughout. The system does not whisper.
 
 ENFORCEMENT PROTOCOLS (ELITE)
 
-Strict Mode: All Integrity penalties doubled.
-
-Active Hours: Define a custom enforcement window.
-
-Safe Zones: GPS-based geofencing to suspend blocking. Never transmitted.
-
-Session Chunks: Enforced 25-minute blocks followed by mandatory breaks.
-
-Bonus Access: Unlocks 15 minutes of unrestricted access.
+• Strict Mode: All Integrity penalties doubled.
+• Active Hours: Define a custom enforcement window.
+• Safe Zones: GPS-based geofencing to suspend blocking. Never transmitted.
+• Session Chunks: Enforced 25-minute blocks followed by mandatory breaks.
+• Bonus Access: Unlocks 15 minutes of unrestricted access.
 
 DAILY DISCIPLINE METRICS & MOOD
 
-Mood Check-In (Elite): System personalizes friction based on your daily emotional parameter.
-
-7-day output history for physical and mental sessions.
-
-Integrity event log: every reason, permanently recorded.
-
-Notifications: Escalating real-time warnings that interrupt your scrolling.
+• Mood Check-In (Elite): System personalizes friction based on your daily emotional parameter.
+• 7-day output history for physical and mental sessions.
+• Integrity event log: every reason, permanently recorded.
+• Notifications: Escalating real-time warnings that interrupt your scrolling.
 
 COMPLETELY LOCAL. FULLY PRIVATE.
 
-No accounts. No servers. No cloud sync.
-
-Camera data: processed entirely on-device. Nothing is recorded or stored.
-
-Location data: stored privately on your device. Never sent anywhere.
-
-Hard Reset wipes everything permanently at any time.
+• No accounts. No servers. No cloud sync.
+• Camera data: processed entirely on-device. Nothing is recorded or stored.
+• Location data: stored privately on your device. Never sent anywhere.
+• Hard Reset wipes everything permanently at any time.
 
 MEMBERSHIP & REQUIREMENTS
 
-Free Tier: 1 target application, basic features.
-
-Elite: Yearly (7-day trial) or Lifetime one-time payment.
-
-Requires: iOS 16.0+, Front Camera, Screen Time & Notification permissions.
+• Free Tier: 1 target application, basic features.
+• Elite: Yearly (7-day trial) or Lifetime one-time payment.
+• Requires: iOS 16.0+, Front Camera, Screen Time & Notification permissions.
 
 MindPush is a productivity enforcement tool. It is not a substitute for professional medical or behavioral health advice.
