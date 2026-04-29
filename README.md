@@ -61,7 +61,7 @@ Escalating push notifications fire throughout. The system does not whisper.
 * Bonus Access: Unlocks 15 minutes of unrestricted access.
 
 ## DAILY DISCIPLINE METRICS & MOOD
-* Mood Check-In (Elite): System personalizes friction based on your daily emotional parameter.
+* Mood Check-In (Elite): Log your psychological state. The system calibrates friction based on your emotional parameter and enforces mandatory cognitive or physical challenges to regulate your state and justify further system access. 
 * 7-day output history for physical and mental sessions.
 * Integrity event log: every reason, permanently recorded.
 * Notifications: Escalating real-time warnings that interrupt your scrolling.
