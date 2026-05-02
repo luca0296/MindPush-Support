@@ -55,9 +55,9 @@ Escalating push notifications fire throughout. The system does not whisper.
 
 ## ENFORCEMENT PROTOCOLS (ELITE)
 * Strict Mode: All Integrity penalties doubled. 
-* Active Hours: Define a custom enforcement window.
-* Safe Zones: GPS-based geofencing to suspend blocking. Never transmitted.
-* Session Chunks: Enforced 25-minute blocks followed by mandatory breaks.
+* Safe Hours: Define recurring daily intervals where blocking automatically suspends
+* Safe Zones: GPS-based areas where blocking automatically suspends (On-device geofencing).
+* Session Chunks: Enforced 15-minute blocks followed by mandatory breaks.
 * Bonus Access: Unlocks 15 minutes of unrestricted access.
 
 ## DAILY DISCIPLINE METRICS & MOOD
@@ -75,6 +75,6 @@ Escalating push notifications fire throughout. The system does not whisper.
 ## MEMBERSHIP & REQUIREMENTS
 * Free Tier: 1 target application, basic features.
 * Elite: Yearly (7-day trial) or Lifetime one-time payment.
-* Requires: iOS 16.0+, Front Camera, Screen Time & Notification permissions.
+* Requires: iOS 17.6+, Front Camera, Screen Time & Notification permissions.
 
 MindPush is a productivity enforcement tool. It is not a substitute for professional medical or behavioral health advice.
