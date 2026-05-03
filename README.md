@@ -20,7 +20,7 @@ The front camera tracks your movement in real time using on-device AI pose detec
 * Push-ups and squats both supported.
 * Skeleton overlay for instant form feedback.
 * Full range-of-motion validation: partial reps are rejected automatically.
-* Hard Mode (Elite): enforces a 3-second isometric hold at the bottom of every rep, yielding 2x screen time.
+* Hard Protocol (Elite): enforces a 3-second isometric hold at the bottom of every rep, yielding 2x screen time.
 * Voice rep counting keeps you in position.
 * Leaving the app mid-session loses all uncounted reps.
 
@@ -46,15 +46,15 @@ At zero, the system does not just block you — it restructures everything to be
 
 ## OVERTIME — THE DEBT SYSTEM
 When your balance hits zero, you have 30 seconds of free grace. Walk away clean. If you don't:
-* Phase 1 (30 to 90s): 1:1 debt. Every second on the app costs a second.
-* Phase 2 (90 to 210s): 2x debt. The meter is doubling.
-* Phase 3 (210 to 330s): 5x debt. Auto-block approaching.
-* Lockdown (330s+): Apps blocked automatically. Debt applied.
+* Phase 1: 1:1 debt. Every second on the app costs a second.
+* Phase 2: 2x debt. The meter is doubling.
+* Phase 3: 5x debt. Auto-block approaching.
+* Lockdown: Apps blocked automatically. Debt applied.
 
 Escalating push notifications fire throughout. The system does not whisper.
 
 ## ENFORCEMENT PROTOCOLS (ELITE)
-* Strict Mode: All Integrity penalties doubled. 
+* Hard Mode: All Integrity penalties doubled. 
 * Safe Hours: Define recurring daily intervals where blocking automatically suspends
 * Safe Zones: GPS-based areas where blocking automatically suspends (On-device geofencing).
 * Session Chunks: Enforced 15-minute blocks followed by mandatory breaks.
